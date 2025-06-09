@@ -261,16 +261,3 @@ public:
     }
 
 };
-
-
-int main() {
-  binarySearchTreeType b;
-  b.insert(10);
-  b.insert(20);
-  b.insert(5);
-  b.remove(10);
-  b.inorderTraversal();
-  b.postorderTraversal();
-  b.preorderTraversal();
-  return 0;
-}
