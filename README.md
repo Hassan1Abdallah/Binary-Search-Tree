@@ -1,4 +1,4 @@
-# Binary-Search-Tree---BST
+# Binary-Search-Tree
 
 # Binary Search Tree with C++
 
